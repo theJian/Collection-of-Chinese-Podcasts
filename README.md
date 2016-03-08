@@ -1,10 +1,16 @@
-# Collection-of-Chinese-Podcasts
+# 华语播客专辑
 
 [![Join the chat at https://gitter.im/theJian/Collection-of-Chinese-Podcasts](https://badges.gitter.im/theJian/Collection-of-Chinese-Podcasts.svg)](https://gitter.im/theJian/Collection-of-Chinese-Podcasts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 :radio: 华语播客专辑 / Collection of Chinese Podcasts
 
 收集有趣的华语播客 (Podcast) , 欢迎 Pull Request 一起丰富这张专辑。
+
+## 分享交流
+
+- 通过Pull Request向更多人分享你所喜爱的播客.
+- 使用issue与更多喜欢播客的人交流.
+- Enjoy
 
 ### 技术
 
