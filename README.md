@@ -14,6 +14,10 @@
 
 ### 技术
 
+- [techtalk@TW](http://www.techtalk.tw/)
+
+> 討論 Java, 程式語言, 軟體工程以及其他科技相關議題的中文 Podcast
+
 - [程序人生](http://podcast.tchen.me/)
 
 - [Teahour.fm](http://teahour.fm/)
