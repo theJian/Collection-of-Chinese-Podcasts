@@ -18,8 +18,6 @@
 
 > 討論 Java, 程式語言, 軟體工程以及其他科技相關議題的中文 Podcast
 
-- [程序人生](http://podcast.tchen.me/)
-
 - [Teahour.fm](http://teahour.fm/)
 
 > Teahour.fm 由Terry，玎玎, Daniel, Kevin 和滚滚主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。
