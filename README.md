@@ -14,6 +14,10 @@
 
 ### 技术
 
+- [差分机](http://diffengine.org/)
+
+> 「差分机」(a Difference Engine) 由两位美国的博士生 Ric 和 Katsu 主持，讨论科技、社会与未来的热点话题。
+
 - [techtalk@TW](http://www.techtalk.tw/)
 
 > 討論 Java, 程式語言, 軟體工程以及其他科技相關議題的中文 Podcast
